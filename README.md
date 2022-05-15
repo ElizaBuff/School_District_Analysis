@@ -34,7 +34,7 @@ Scores by school spending
 Scores by school size
 Scores by school type
 
-![Original By School Size](Resources/Original By School Size.png)
+![O_By_SchoolSize](O_By_SchoolSize.png)
 
 Based on the line graph above, I had the following takeways about theather campaigns:
 * May, June, and July respectively had the highest number of successful campaigns. 
