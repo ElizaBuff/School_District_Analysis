@@ -49,14 +49,28 @@ Original Math Breakdown
 Original Reading Breakdown
 ![O_Reading](O_Reading.png)
 
+---
+Updated By School Size
+![U_By_SchoolSize](U_By_SchoolSize.png)
+
+Updated By School Type
+![U_By_SchoolType](U_By_SchoolType.png)
+
+Updated By Spending
+![U_By_Spending](U_By_Spending.png)
+
+Updated Math Breakdown
+![U_Math](U_Math.png)
+
+Updated Reading Breakdown
+![U_Reading](U_Reading.png)
+
 Based on the line graph above, I had the following takeways about theather campaigns:
 * May, June, and July respectively had the highest number of successful campaigns. 
 * October and May respectively had the highest number of failed campaigns.
 * December had about as many successful campaigns as failed ones.
 * In every month there were more successful than failed campagins. Generally, the successful and failed trend lines create the same shape and are similar to each other with the exception of May, October, and December. In May, the larger than average gap between successful and failed campaigns suggests a better chance for success. In October, the smaller than average gap between successful and failed campaigns suggests a better chance for failure. 
 
-
-![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 
 
