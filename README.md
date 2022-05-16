@@ -50,12 +50,15 @@ The results for Thomas High School's ninth grade has been replaced with *"nan"* 
 ![U_Reading](U_Reading.png)
 
 ### How does replacing the ninth-grade scores affect the scores by school spending?: 
-Updated By Spending
+Since Thomas High School falls in the $631-645 per student spending range, that row the of the tabel is affected. Every value has decreased including the overall passing percentage from 63% to 56%. However, this decrease do not change the overall trend that schools spending less money per student have higher passing percentages. 
+
 ![U_By_Spending](U_By_Spending.png)
 
 ### How does replacing the ninth-grade scores affect the scores by school size?:
-Updated By School Size
+Since Thomas High School falls in the medium school size range, that row the of the tabel is affected. Every value has decreased including the overall passing percentage from 91% to 85%. Now small schools have the highest overall passing percentage while large school remain the lowest. 
+
 ![U_By_SchoolSize](U_By_SchoolSize.png)
+
 ### How does replacing the ninth-grade scores affect the scores by school type?:
 Updated By School Type
 ![U_By_SchoolType](U_By_SchoolType.png)
