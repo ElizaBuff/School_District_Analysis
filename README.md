@@ -20,19 +20,21 @@ Finally, the same school district analysis is repeated with the updated data alo
 ## Results
 These results explain how the updated data, removing Thomas High School's nineth grade, affected the overall analysis.
 
-**How is the district summary affected?:** Overall, the percentage of students passing math and reading exames decreased. 
+**How is the district summary affected?:** Overall, the percentage of students passing math and reading exames decreased. This meant that the district has a passing percentage of 64.9%. 
 * Math decreased 0.3%
 * Reading decreased 0.2%
 * Overall Passing decreased 0.1% 
 
 ![U_District_Summary](U_District_Summary.png)
 
-**How is the school summary affected?:** The only change to the school summary math and reading reports is that Thomas High School 9th grade results now read *"nan"* instea of 83.% in math and 83.7% in reading. 
+**How is the school summary affected?:** The only change to the school summary math and reading reports is that Thomas High School 9th grade results now read *"nan"* instead of 83.% in math and 83.7% in reading. 
 
-Math Breakdown by School 
+**Math Breakdown by School** 
+
 ![U_Math](U_Math.png)
 
-Reading Breakdown by School 
+**Reading Breakdown by School**
+
 ![U_Reading](U_Reading.png)
 
 
