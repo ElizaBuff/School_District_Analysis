@@ -20,14 +20,17 @@ Finally, the same school district analysis is repeated with the updated data alo
 ## Results
 These results explain how the updated data, removing Thomas High School's nineth grade, affected the overall analysis.
 
-**How is the district summary affected?:** Overall, the percentage of students passing math and reading exames decreased. This meant that the district has a passing percentage of 64.9%. 
+**How is the district summary affected?:** For the district, the percentage of students passing math and reading exames decreased. This means that the district has an adjusted passing percentage of 64.9%. 
 * Math decreased 0.3%
 * Reading decreased 0.2%
 * Overall Passing decreased 0.1% 
 
 ![U_District_Summary](U_District_Summary.png)
 
-**How is the school summary affected?:** The only change to the school summary math and reading reports is that Thomas High School 9th grade results now read *"nan"* instead of 83.% in math and 83.7% in reading. 
+**How is the school summary affected?:** At Thomas High School, there is a sizable decrease in the percentage of students passing.
+* Math decreased by 26.4% to 66.9%
+* Reading decreased 27.6% to 69.7%
+* Overall Passing decreased 25.8% to 65.1%  
 
 **Math Breakdown by School** 
 
@@ -38,7 +41,7 @@ These results explain how the updated data, removing Thomas High School's nineth
 ![U_Reading](U_Reading.png)
 
 
-**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?:** Because the passing rates dropped from the low 90s to the high 60s, Thomas High School's rank dropped. In the original dataset, Thomas High Schools ranked second out of the fifteen schools. When the ninth grade is removed, Thomas High School falls to eighth. 
 
 
 **How does replacing the ninth-grade scores affect the following:**
