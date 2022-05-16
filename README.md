@@ -60,7 +60,8 @@ Since Thomas High School falls in the medium school size range, that row the of 
 ![U_By_SchoolSize](U_By_SchoolSize.png)
 
 ### How does replacing the ninth-grade scores affect the scores by school type?:
-Updated By School Type
+Since Thomas High School is a charter school, that row the of the tabel is affected. Every value has decreased including the overall passing percentage from 90% to 87%. However, this decrease do not change the overall trend that charter schools have higher passing percentages. 
+
 ![U_By_SchoolType](U_By_SchoolType.png)
 
 
